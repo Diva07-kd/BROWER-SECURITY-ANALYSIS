@@ -1,0 +1,74 @@
+BROWSER SECURITY EXTENSION:
+
+1) WHAT THIS TASK ABOUT:
+
+This task was mainly to check our browser, look at the extensions we have, see if any of them look suspicious,
+and remove the ones we don’t need. The idea is to understand how extensions can be risky and learn some basic
+browser security stuff.
+
+
+2) BROWER SECURITY:
+
+Browsers are like our entry door to the internet. If they aren’t secure, we’re basically inviting attackers in.
+That’s why browsers come with things like safe browsing, HTTPS alerts, and regular updates. Still, if we
+install random stuff, we can mess up our own security.
+
+3) EXTENSION:
+
+Extensions are useful (like ad blockers, dark mode, or password managers), but they can also be dangerous.
+Some extensions can spy on us, steal data, or show unwanted ads. Basically, if you don’t know the developer or
+if it asks for too many permissions, be careful.
+
+PERMISSION:
+
+When installing an extension, it always asks for permissions. Some are okay, but some are fishy, like:
+
+Asking to “read and change all your data on websites you visit” → that’s basically full access.
+
+Access to clipboard → can steal passwords you copy-paste.
+
+Running in the background all the time → means it’s spying on you constantly.
+
+
+4) BROWER MALWARE
+
+Malware in browsers usually comes through shady extensions, fake ads, or hijackers that change your
+homepage/search engine. They can also trick you with fake login pages (phishing) and steal passwords.
+
+    Best Practices
+
+Here are some simple habits I noted:
+
+Don’t install random extensions.
+
+Always check permissions before installing.
+
+Remove extensions you don’t use.
+
+Keep the browser and extensions updated.
+
+Clear cookies/history often.
+
+Use antivirus alongside the browser.
+
+
+
+What I did in this task:
+
+1. Opened my browser’s extension manager.
+
+
+2. Looked at all the extensions I already had.
+
+
+3. Checked what permissions they asked for.
+
+
+4. Googled some names to see if they were legit.
+
+
+5. Found a couple I don’t even use → removed them.
+
+
+6. Restarted my browser → everything worked fine.
+
